@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/SangamThakur07/leetcode-progress/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/SangamThakur07/leetcode-progress/tree/master/0152-maximum-product-subarray) |
+| [0525-contiguous-array](https://github.com/SangamThakur07/leetcode-progress/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SangamThakur07/leetcode-progress/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SangamThakur07/leetcode-progress/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SangamThakur07/leetcode-progress/tree/master/0918-maximum-sum-circular-subarray) |
@@ -36,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/SangamThakur07/leetcode-progress/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SangamThakur07/leetcode-progress/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SangamThakur07/leetcode-progress/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SangamThakur07/leetcode-progress/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/SangamThakur07/leetcode-progress/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SangamThakur07/leetcode-progress/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SangamThakur07/leetcode-progress/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
