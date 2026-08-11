@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SangamThakur07/leetcode-progress/tree/master/0053-maximum-subarray) |
+| [0057-insert-interval](https://github.com/SangamThakur07/leetcode-progress/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/SangamThakur07/leetcode-progress/tree/master/0152-maximum-product-subarray) |
 | [0525-contiguous-array](https://github.com/SangamThakur07/leetcode-progress/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SangamThakur07/leetcode-progress/tree/master/0560-subarray-sum-equals-k) |
