@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/SangamThakur07/leetcode-progress/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SangamThakur07/leetcode-progress/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SangamThakur07/leetcode-progress/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/SangamThakur07/leetcode-progress/tree/master/1189-maximum-number-of-balloons) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/SangamThakur07/leetcode-progress/tree/master/0986-interval-list-intersections) |
+## String
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/SangamThakur07/leetcode-progress/tree/master/1189-maximum-number-of-balloons) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/SangamThakur07/leetcode-progress/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
