@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/SangamThakur07/leetcode-progress/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/SangamThakur07/leetcode-progress/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SangamThakur07/leetcode-progress/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SangamThakur07/leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/SangamThakur07/leetcode-progress/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SangamThakur07/leetcode-progress/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SangamThakur07/leetcode-progress/tree/master/0724-find-pivot-index) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/SangamThakur07/leetcode-progress/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SangamThakur07/leetcode-progress/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SangamThakur07/leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SangamThakur07/leetcode-progress/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SangamThakur07/leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/SangamThakur07/leetcode-progress/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/SangamThakur07/leetcode-progress/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SangamThakur07/leetcode-progress/tree/master/0560-subarray-sum-equals-k) |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SangamThakur07/leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/SangamThakur07/leetcode-progress/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
@@ -78,12 +82,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SangamThakur07/leetcode-progress/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SangamThakur07/leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SangamThakur07/leetcode-progress/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SangamThakur07/leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SangamThakur07/leetcode-progress/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SangamThakur07/leetcode-progress/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SangamThakur07/leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
