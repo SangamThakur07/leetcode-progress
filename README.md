@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/SangamThakur07/leetcode-progress/tree/master/0502-ipo) |
 | [0525-contiguous-array](https://github.com/SangamThakur07/leetcode-progress/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SangamThakur07/leetcode-progress/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/SangamThakur07/leetcode-progress/tree/master/0621-task-scheduler) |
 | [0724-find-pivot-index](https://github.com/SangamThakur07/leetcode-progress/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SangamThakur07/leetcode-progress/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SangamThakur07/leetcode-progress/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/SangamThakur07/leetcode-progress/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/SangamThakur07/leetcode-progress/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SangamThakur07/leetcode-progress/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/SangamThakur07/leetcode-progress/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/SangamThakur07/leetcode-progress/tree/master/0767-reorganize-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SangamThakur07/leetcode-progress/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/SangamThakur07/leetcode-progress/tree/master/1189-maximum-number-of-balloons) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SangamThakur07/leetcode-progress/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/SangamThakur07/leetcode-progress/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/SangamThakur07/leetcode-progress/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/SangamThakur07/leetcode-progress/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/SangamThakur07/leetcode-progress/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/SangamThakur07/leetcode-progress/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/SangamThakur07/leetcode-progress/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/SangamThakur07/leetcode-progress/tree/master/0767-reorganize-string) |
 ## Sorting
 |  |
@@ -90,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/SangamThakur07/leetcode-progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SangamThakur07/leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/SangamThakur07/leetcode-progress/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/SangamThakur07/leetcode-progress/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/SangamThakur07/leetcode-progress/tree/master/0767-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
@@ -97,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/SangamThakur07/leetcode-progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SangamThakur07/leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/SangamThakur07/leetcode-progress/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/SangamThakur07/leetcode-progress/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/SangamThakur07/leetcode-progress/tree/master/0767-reorganize-string) |
 ## Quickselect
 |  |
