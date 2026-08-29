@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/SangamThakur07/leetcode-progress/tree/master/0621-task-scheduler) |
 | [0724-find-pivot-index](https://github.com/SangamThakur07/leetcode-progress/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SangamThakur07/leetcode-progress/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/SangamThakur07/leetcode-progress/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SangamThakur07/leetcode-progress/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/SangamThakur07/leetcode-progress/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SangamThakur07/leetcode-progress/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/SangamThakur07/leetcode-progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SangamThakur07/leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SangamThakur07/leetcode-progress/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/SangamThakur07/leetcode-progress/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/SangamThakur07/leetcode-progress/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/SangamThakur07/leetcode-progress/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/SangamThakur07/leetcode-progress/tree/master/0767-reorganize-string) |
+| [0973-k-closest-points-to-origin](https://github.com/SangamThakur07/leetcode-progress/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -104,13 +107,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/SangamThakur07/leetcode-progress/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/SangamThakur07/leetcode-progress/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/SangamThakur07/leetcode-progress/tree/master/0767-reorganize-string) |
+| [0973-k-closest-points-to-origin](https://github.com/SangamThakur07/leetcode-progress/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SangamThakur07/leetcode-progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SangamThakur07/leetcode-progress/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/SangamThakur07/leetcode-progress/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SangamThakur07/leetcode-progress/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/SangamThakur07/leetcode-progress/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/SangamThakur07/leetcode-progress/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/SangamThakur07/leetcode-progress/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
