@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/SangamThakur07/leetcode-progress/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/SangamThakur07/leetcode-progress/tree/master/0057-insert-interval) |
+| [0128-longest-consecutive-sequence](https://github.com/SangamThakur07/leetcode-progress/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/SangamThakur07/leetcode-progress/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SangamThakur07/leetcode-progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SangamThakur07/leetcode-progress/tree/master/0347-top-k-frequent-elements) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SangamThakur07/leetcode-progress/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/SangamThakur07/leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/SangamThakur07/leetcode-progress/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/SangamThakur07/leetcode-progress/tree/master/0525-contiguous-array) |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/SangamThakur07/leetcode-progress/tree/master/0973-k-closest-points-to-origin) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SangamThakur07/leetcode-progress/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
