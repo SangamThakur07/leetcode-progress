@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SangamThakur07/leetcode-progress/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SangamThakur07/leetcode-progress/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/SangamThakur07/leetcode-progress/tree/master/0057-insert-interval) |
 | [0128-longest-consecutive-sequence](https://github.com/SangamThakur07/leetcode-progress/tree/master/0128-longest-consecutive-sequence) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SangamThakur07/leetcode-progress/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/SangamThakur07/leetcode-progress/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/SangamThakur07/leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/SangamThakur07/leetcode-progress/tree/master/0409-longest-palindrome) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SangamThakur07/leetcode-progress/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/SangamThakur07/leetcode-progress/tree/master/0409-longest-palindrome) |
 | [0767-reorganize-string](https://github.com/SangamThakur07/leetcode-progress/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/SangamThakur07/leetcode-progress/tree/master/1189-maximum-number-of-balloons) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SangamThakur07/leetcode-progress/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SangamThakur07/leetcode-progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SangamThakur07/leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/SangamThakur07/leetcode-progress/tree/master/0502-ipo) |
